@@ -22,7 +22,7 @@ const Navbar = () => {
             style={{ fontFamily: 'Outfit, sans-serif' }}
             data-testid="navbar-logo"
           >
-            Uni<span className="text-primary">Booking</span>
+            Style<span className="text-primary">Match</span>
           </Link>
 
           <div className="flex items-center gap-6">

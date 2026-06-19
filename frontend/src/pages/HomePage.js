@@ -115,7 +115,7 @@ const HomePage = () => {
             Own a Business?
           </h2>
           <p className="text-lg mb-8 text-white/90 max-w-2xl mx-auto">
-            Join UniBooking and reach thousands of customers looking for your services.
+            Join StyleMatch and reach thousands of customers looking for your services.
           </p>
           <Link
             to="/register"
